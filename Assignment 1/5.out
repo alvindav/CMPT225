@@ -1,3 +1,0 @@
-Error on line 104: Read ), expected }
-			case '(': { closing = ')
-			                        '; break; }

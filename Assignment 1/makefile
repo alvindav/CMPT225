@@ -10,4 +10,4 @@ char_stack.o:
 	g++ -c char_stack.cpp
 
 clean:
-	rm *o gscheck
+	rm -f *o gscheck *.gt
