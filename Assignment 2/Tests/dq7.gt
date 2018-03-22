@@ -1,0 +1,50 @@
+
+
+Deque Class Test Program 4 - START
+
+***DISPLAYING DQ1***
+[8;7;6;5;4;3;2;1;] size=8, cursor=4.
+NODE           PREVIOUS        NEXT
+0x7fbc41c02880           0x0        0x7fbc41c02860
+0x7fbc41c02860     0x7fbc41c02880        0x7fbc41c02840
+0x7fbc41c02840     0x7fbc41c02860        0x7fbc41c02820
+0x7fbc41c02820     0x7fbc41c02840        0x7fbc41c02800
+0x7fbc41c02800     0x7fbc41c02820        0x7fbc41c027e0
+0x7fbc41c027e0     0x7fbc41c02800        0x7fbc41c027c0
+0x7fbc41c027c0     0x7fbc41c027e0        0x7fbc41c027a0
+0x7fbc41c027a0     0x7fbc41c027c0        0x0
+
+
+***DISPLAYING DQ2 (DQ1 COPY)***
+[8;7;6;5;4;3;2;1;] size=8, cursor=4.
+NODE           PREVIOUS        NEXT
+0x7fbc41c028a0           0x0        0x7fbc41c028c0
+0x7fbc41c028c0     0x7fbc41c028a0        0x7fbc41c028e0
+0x7fbc41c028e0     0x7fbc41c028c0        0x7fbc41c02900
+0x7fbc41c02900     0x7fbc41c028e0        0x7fbc41c02920
+0x7fbc41c02920     0x7fbc41c02900        0x7fbc41c02940
+0x7fbc41c02940     0x7fbc41c02920        0x7fbc41c02960
+0x7fbc41c02960     0x7fbc41c02940        0x7fbc41c02980
+0x7fbc41c02980     0x7fbc41c02960        0x0
+
+
+***DISPLAYING DQ3***
+[5;4;3;2;1;] size=5, cursor=3.
+NODE           PREVIOUS        NEXT
+0x7fbc41c02a40           0x0        0x7fbc41c02a20
+0x7fbc41c02a20     0x7fbc41c02a40        0x7fbc41c02a00
+0x7fbc41c02a00     0x7fbc41c02a20        0x7fbc41c029e0
+0x7fbc41c029e0     0x7fbc41c02a00        0x7fbc41c029c0
+0x7fbc41c029c0     0x7fbc41c029e0        0x0
+
+
+***DISPLAYING DQ4 (DQ3 COPY)***
+[5;4;3;2;1;] size=5, cursor=3.
+NODE           PREVIOUS        NEXT
+0x7fbc41c02a80           0x0        0x7fbc41c02aa0
+0x7fbc41c02aa0     0x7fbc41c02a80        0x7fbc41c02ac0
+0x7fbc41c02ac0     0x7fbc41c02aa0        0x7fbc41c02ae0
+0x7fbc41c02ae0     0x7fbc41c02ac0        0x7fbc41c02b00
+0x7fbc41c02b00     0x7fbc41c02ae0        0x0
+
+
