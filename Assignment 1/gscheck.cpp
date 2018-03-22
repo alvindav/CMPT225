@@ -3,7 +3,7 @@
 #include <fstream>
 #include "char_stack.h"
 using namespace std;
-
+ 
 bool pairChecker(char opening, char closing);
 char correctPair(char opening);
 void printError(string currentLine, int lineLength, int numIndex, int numTabs);
