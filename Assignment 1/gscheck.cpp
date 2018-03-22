@@ -66,7 +66,7 @@ int main() {
 			}
 		}//end while
 	}//end while
-	
+
 	if(!stack.empty() && !error){
 		currentBracket = stack.pop();
 		cout << "Error at end of file: Too many " << currentBracket << endl;
